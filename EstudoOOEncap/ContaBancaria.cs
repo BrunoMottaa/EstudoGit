@@ -36,7 +36,7 @@ namespace EstudoOOEncap
                 + Numero
                 + ", Titular: "
                 + Titular
-                + ", Saldo: $ "
+                + ", e o Saldo: $ "
                 + Saldo.ToString("F2", CultureInfo.InvariantCulture);
     
         }   
